@@ -4,6 +4,8 @@ Uses scholar.py to look up urls for each of the bibtex
 entries and updates the howpublished section for each 
 of the entries in the bib file. 
 """
+# Author: Sudeep Pillai <spillai@csail.mit.edu>                                                                                                                                                          
+# License: TODO   
 
 import os.path
 import argparse
